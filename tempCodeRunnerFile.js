@@ -1,0 +1,1 @@
+light_graph[19] = parseFloat(value.Light).toFixed(0);
